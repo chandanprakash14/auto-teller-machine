@@ -1,0 +1,13 @@
+HOW TO RUN THE PROGRAM
+
+STEPS:
+
+Connect Internet
+
+Open python idle software
+
+Open xampp  and start mysql
+
+Run Code chandansalavudeen.py
+
+Check Database for chrome local site
